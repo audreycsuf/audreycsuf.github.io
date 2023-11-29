@@ -7,7 +7,8 @@ My GitHub page can be found here: https://github.com/audreycsuf
 
 *
   Lab 3, part-1, is the first out of my three favorite labs. The file for this lab that I edited, pizza.cc, gave me the 
-  opportunity to create a proper function for the main, which was instrumental in giving me a good foundation for how          functions operate. I really liked this lab because of the moment when the use of the function for the program, and the   
+  opportunity to create a proper function for the main, which was instrumental in giving me a good foundation for how
+  functions operate. I really liked this lab because of the moment when the use of the function for the program, and the 
   operation of functions in general, clicked and made sense to me.
 
 *
