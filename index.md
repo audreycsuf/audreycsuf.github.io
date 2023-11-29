@@ -13,7 +13,7 @@ My GitHub page can be found here: https://github.com/audreycsuf
 *
   Lab 6, part-2, is another of my favorite labs. I liked it because it required the use of many previous concepts as well as 
   new ones. I enjoyed using code to validate argument counts. In addition to the practice that this lab provided for writing 
-  command-line arguments, Lab 6, part-2, used function descriptions with more complex Boolean logic, which was very 
+  command-line arguments, the lab also required function descriptions with more complex Boolean logic, which was very 
   important for me to become comfortable with. Finally, to write a correct game of Blackjack into a program gave me a very 
   accomplished feeling.
 
